@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyPopupEmpty.qml</file>
+        <file>MyTextField.qml</file>
+        <file>MyTextArea.qml</file>
+        <file>MyButton.qml</file>
+        <file>MyBackground.qml</file>
+        <file>MyTextPage.qml</file>
+        <file>MyStackView.qml</file>
+        <file>MyPopupStackView.qml</file>
+        <file>MyPopupWithPopup.qml</file>
+        <file>MyCheckBox.qml</file>
+        <file>MyRadioButton.qml</file>
+        <file>MyPopup.qml</file>
+        <file>MyPopupWithTextFields.qml</file>
+    </qresource>
+</RCC>
